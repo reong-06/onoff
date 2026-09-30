@@ -1,0 +1,7 @@
+{
+  "appId": "com.yourname.onoff",
+  "appName": "ON/OFF",
+  "webDir": "www",
+  "backgroundColor": "#FBFAFD",
+  "ios": { "contentInset": "never" }
+}

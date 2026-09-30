@@ -1,0 +1,11 @@
+{
+  "name": "onoff-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "sync": "npx cap sync",
+    "ios": "npx cap sync ios && npx cap open ios",
+    "android": "npx cap sync android && npx cap open android",
+    "icons": "npx @capacitor/assets generate --iconBackgroundColor #7B3FC4 --splashBackgroundColor #7B3FC4"
+  }
+}
